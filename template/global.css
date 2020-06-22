@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@400;700&display=swap');
+
+*, html, body {
+    font-family: Yantramanav, sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 1.35rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+a {
+    font-size: 1.25rem;
+    text-decoration: none;
+    color: black;
+}
